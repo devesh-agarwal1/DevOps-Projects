@@ -378,5 +378,3 @@ resource "virtualbox_vm" "db_server" {
 ---
 
 ### **End Result:**
-
-You will have an automated DevOps workflow that provisions VMs, configures services, and deploys applications seamlessly using Terraform, Ansible, Jenkins, and Git.
